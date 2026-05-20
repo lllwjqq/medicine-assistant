@@ -1,0 +1,54 @@
+{
+	"pages": [
+		{
+			"path": "pages/Login",
+			"style": {
+				"navigationStyle": "custom",
+				"navigationBarTitleText": "登录"
+			}
+		},
+		{
+			"path": "pages/Index",
+			"style": {
+				"navigationBarTitleText": "首页"
+			}
+		},
+		{
+			"path": "pages/OcrRecognize",
+			"style": {
+				"navigationBarTitleText": "处方单识别"
+			}
+		},
+		{
+			"path": "pages/ReminderSet",
+			"style": {
+				"navigationBarTitleText": "设置服药提醒"
+			}
+		},
+		{
+			"path": "pages/MedicineList",
+			"style": {
+				"navigationBarTitleText": "药品列表"
+			}
+		},
+		{
+			"path": "pages/TakeRecord",
+			"style": {
+				"navigationBarTitleText": "服药记录"
+			}
+		},
+		{
+			"path": "pages/Statistics",
+			"style": {
+				"navigationBarTitleText": "服药统计"
+			}
+		}
+	],
+	"globalStyle": {
+		"navigationBarTextStyle": "white",
+		"navigationBarTitleText": "智能药盒助手",
+		"navigationBarBackgroundColor": "#409EFF",
+		"backgroundColor": "#f5f5f5"
+	},
+	"uniIdRouter": {}
+}
